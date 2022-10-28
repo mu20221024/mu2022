@@ -1,0 +1,335 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>禪繞畫</p>
+          <img src="pic\禪繞畫.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">zentangle</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>水墨畫</p>
+          <img src="pic\水墨畫.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">ink paint</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>抽象</p>
+          <img src="pic\抽象.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">abstract</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>流體</p>
+          <img src="pic\流體.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">fluid</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p> 倒影</p>
+          <img src="pic\倒影.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">reflection</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>量子糾纏</p>
+          <img src="pic\量子糾纏.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">quantum entanglement</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>魔法陣</p>
+          <img src="pic\魔法陣.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">magic circle</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>核爆</p>
+          <img src="pic\核爆.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">nuclear explosion</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>如鑽石般閃耀</p>
+          <img src="pic\鑽石般閃耀.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">sparkle like a diamond</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>破碎玻璃效果</p>
+          <img src="pic\破碎玻璃.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">broken glass</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>迷幻</p>
+          <img src="pic\迷幻.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">psychedelic</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>螢光</p>
+          <img src="pic\螢光.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">fluorescent</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>電子音樂</p>
+          <img src="pic\電子音樂.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">electronic music</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>鱗片</p>
+          <img src="pic\鱗片.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">scales skin</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>墨染</p>
+          <img src="pic\墨染.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">smudge effect</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>極光</p>
+          <img src="pic\極光.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">aurora</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>漂浮的玻璃碎片</p>
+          <img src="pic\漂浮的玻璃碎片.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">glass shards,float,girl</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>死神</p>
+          <img src="pic\死神.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Reaper</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>寶可夢</p>
+          <img src="pic\寶可夢.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Pokémon</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>木乃伊</p>
+          <img src="pic\木乃伊.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">mummy</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>法老王</p>
+          <img src="pic\法老王.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Pharaoh</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>阿努比斯</p>
+          <img src="pic\阿努比斯.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Anubis</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>哪吒</p>
+          <img src="pic\哪吒.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Nezha</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>世界軸心</p>
+          <img src="pic\世界軸心.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Axis mundi</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>神話</p>
+          <img src="pic\神話.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Myth</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>仙俠</p>
+          <img src="pic\仙俠.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Xian Xia</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>陰陽</p>
+          <img src="pic\陰陽.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Yin and yang</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>六道</p>
+          <img src="pic\六道.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Six Paths</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>無色界</p>
+          <img src="pic\無色界.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">{{{Formless Realm}}},girl</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>色界</p>
+          <img src="pic\色界.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Form Realm</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>魔法</p>
+          <img src="pic\魔法.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">magic</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>邊緣的空虛</p>
+          <img src="pic\邊緣的空虛.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">emptiness of edge</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>纏</p>
+          <img src="pic\纏.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">entanglement</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>重力奇點</p>
+          <img src="pic\重力奇點.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Gravitational singularity</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>末日</p>
+          <img src="pic\末日.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">doomsday</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>摸頭殺</p>
+          <img src="pic\摸頭.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">behead</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>懸掛</p>
+          <img src="pic\懸掛.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">suspension</p>
+        </div>
+      </div>
+    </div>
+  </div>

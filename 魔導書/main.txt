@@ -1,0 +1,31 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">Logo</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:5500/test.html">首頁</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="http://127.0.0.1:5500/test2.html">標籤</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"></a>
+              </li>
+              <li class="nav-item dropdown" id="2">
+                <a class="nav-link dropdown-toggle" href="#"id="0">參考目錄</a>
+                <ul class="dropdown-menu bg-dark" id="1">
+                  <li><a class="dropdown-item nav-link"  href="https://docs.google.com/spreadsheets/d/16wR5Zg_aQEbxLdrTOrB9cZf8QmsMrJnSGxFKbZVtrKc/edit#gid=67908688"target="_blank">魔導書</a></li>
+                  <li><a class="dropdown-item nav-link"  href="https://docs.google.com/document/d/1MtCr_Zo2xLUO2g2MuVEGlLhzx6BJUgN7ve5XGjPHR_I/edit"target="_blank">魔法咒語</a></li>
+                  <li><a class="dropdown-item nav-link"  href="https://aitag.top/"target="_blank">魔咒百科辭典</a></li>
+                  <li><a class="dropdown-item nav-link"  href="https://docs.qq.com/doc/DWHl3am5Zb05QbGVs"target="_blank">元素法典</a></li>
+                  <li><a class="dropdown-item nav-link"  href="https://english.cool/colors/"target="_blank">顏色英文</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+</nav>

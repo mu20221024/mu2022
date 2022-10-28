@@ -1,0 +1,18 @@
+$(document).ready(function(){
+    $("#switch").load("info1.txt");
+    $("#finish").click(function(){
+      $("#switch").load("info1.txt");
+    });
+    $("#people").click(function(){
+      $("#switch").load("info2.txt");
+    });
+    $("#background").click(function(){
+        $("#switch").load("info3.txt");
+      });
+      $("#object").click(function(){
+        $("#switch").load("info4.txt");
+      });      
+      $("#other").click(function(){
+        $("#switch").load("info5.txt");
+      });      
+  });

@@ -1,0 +1,13 @@
+#head
+{
+  background-image: var(--bs-gradient);
+}
+#copy_content{position: absolute;top: 0;left: 0;opacity: 0;z-index: -10;}
+.ellipsis2 {
+  overflow: hidden;
+  display: -webkit-box;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2; /*行數*/
+  -webkit-box-orient: vertical;
+  white-space: normal;
+}

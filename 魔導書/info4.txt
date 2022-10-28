@@ -1,0 +1,110 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>鎖鍊</p>
+          <img src="pic\鎖鍊.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">chain</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>羽毛</p>
+          <img src="pic\羽毛.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">feather</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>花</p>
+          <img src="pic\花.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">flower</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>權杖</p>
+          <img src="pic\權杖.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">scepter</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>重機槍</p>
+          <img src="pic\重機槍.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">heavy machine gun</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>劍</p>
+          <img src="pic\劍.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">sword</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>長矛</p>
+          <img src="pic\長矛.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">spear</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>盾牌</p>
+          <img src="pic\盾牌.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">shield</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>電鑽</p>
+          <img src="pic\電鑽.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">electric drill</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>販賣機</p>
+          <img src="pic\販賣機.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">vending machine</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>鏈鋸</p>
+          <img src="pic\鏈鋸.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">chainsaw</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>棺材</p>
+          <img src="pic\棺材.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">coffin</p>
+        </div>
+      </div>
+    </div>
+  </div>

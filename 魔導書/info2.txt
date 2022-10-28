@@ -1,0 +1,230 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <!--髮 -->
+
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>長髮</p>
+          <img src="pic\長髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">long hair</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>短髮</p>
+          <img src="pic\短髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">short hair</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>馬尾</p>
+          <img src="pic\馬尾.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">ponytail</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>冠狀辮</p>
+          <img src="pic\冠狀辮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">crown braids</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>彩虹漸層髮</p>
+          <img src="pic\彩虹漸層髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">rainbow gradient hair</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>鑽頭</p>
+          <img src="pic\鑽頭.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">drill</p>
+        </div>
+      </div>
+    </div>
+
+    <!--髮 -->
+    <!--服飾 -->
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>和服</p>
+          <img src="pic\和服.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">kimono</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>袴</p>
+          <img src="pic\袴.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">hakama</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>武士服</p>
+          <img src="pic\武士服.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Samurai uniform</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>儒服</p>
+          <img src="pic\儒服.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Confucian clothing</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>宋服</p>
+          <img src="pic\宋服.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Song dynasty</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>漢服</p>
+          <img src="pic\漢服.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Hanfu</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>道袍</p>
+          <img src="pic\道袍.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Taoist robe</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>拘束衣</p>
+          <img src="pic\拘束衣.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">straitjacket</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>及地連身裙</p>
+          <img src="pic\及地連身裙.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">floor-length dress</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>蘿莉塔</p>
+          <img src="pic\蘿莉塔.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">lolita</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>洛可可</p>
+          <img src="pic\洛可可.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">rococo</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>紗麗</p>
+          <img src="pic\紗麗.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">sari</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>帕爾瓦蒂</p>
+          <img src="pic\帕爾瓦蒂.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Parvati</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>印度風</p>
+          <img src="pic\印度風.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Indian style</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>寬版T恤</p>
+          <img src="pic\寬版T恤.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">oversize t-shirt</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>嘻哈</p>
+          <img src="pic\嘻哈.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">hiphop</p>
+        </div>
+      </div>
+    </div>
+    <!--服飾 -->
+
+    <!--身體部位 -->
+
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>花 紋身</p>
+          <img src="pic\花刺青.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">flower tattoo</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>蜘蛛 紋身</p>
+          <img src="pic\蜘蛛刺青.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">spider tattoo</p>
+        </div>
+      </div>
+    </div>
+
+    <!--身體部位 -->
+
+  </div>

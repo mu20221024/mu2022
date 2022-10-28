@@ -1,0 +1,78 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>海</p>
+          <img src="pic\海.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">sea</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>夕陽</p>
+          <img src="pic\夕陽.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">sunset</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>宇宙</p>
+          <img src="pic\宇宙.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">universe</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>萬花筒</p>
+          <img src="pic\萬花筒.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">kaleidoscope</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>亞特蘭提斯</p>
+          <img src="pic\亞特蘭提斯.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Atlantis</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>異世界村莊</p>
+          <img src="pic\異世界村莊.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">Isekai city</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>洞窟</p>
+          <img src="pic\洞窟.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">cave</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p>墓園</p>
+          <img src="pic\墓園.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2">cemetery</p>
+        </div>
+      </div>
+    </div>
+
+  </div>

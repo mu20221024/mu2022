@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>魔導書</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+  
+  <script type="text/javascript" src="slidedown.js"></script>
+  <script type="text/javascript" src="slideup.js"></script>
+  <script type="text/javascript" src="fadein.js"></script>
+  <script type="text/javascript" src="loadDoc.js"></script>
+  <script type="text/javascript" src="copytext.js"></script>
+  <script type="text/javascript" src="addtolist.js"></script>
+  <script type="text/javascript" src="clearlist.js"></script>
+  <script type="text/javascript" src="clearthis.js"></script>
+  <script type="text/javascript" src="copytouser.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">魔導書</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="http://127.0.0.1:5500/test.html">首頁</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="http://127.0.0.1:5500/test2.html">標籤</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#"></a>
+          </li>
+          <li class="nav-item" id="2">
+            <a class="nav-link" href="#"id="0">參考目錄</a>
+            <ul class="dropdown-menu bg-dark" id="1">
+              <li><a class="dropdown-item nav-link"  href="https://docs.google.com/spreadsheets/d/16wR5Zg_aQEbxLdrTOrB9cZf8QmsMrJnSGxFKbZVtrKc/edit#gid=67908688"target="_blank">魔導書</a></li>
+              <li><a class="dropdown-item nav-link"  href="https://docs.google.com/document/d/1MtCr_Zo2xLUO2g2MuVEGlLhzx6BJUgN7ve5XGjPHR_I/edit"target="_blank">魔法咒語</a></li>
+              <li><a class="dropdown-item nav-link"  href="https://aitag.top/"target="_blank">魔咒百科辭典</a></li>
+              <li><a class="dropdown-item nav-link"  href="https://docs.qq.com/doc/DWHl3am5Zb05QbGVs"target="_blank">元素法典</a></li>
+              <li><a class="dropdown-item nav-link"  href="https://english.cool/colors/"target="_blank">顏色英文</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+</nav>
+<div class="container-fluid p-5 bg-info text-white text-center"id="head"style="--bs-bg-opacity: .7; display:none")>
+  <h1>魔導書</h1>
+  <p>展示算圖作品跟存放標籤用</p> 
+</div>
+<div class="container"style="padding: 10px;">
+  <div class="row">
+    <div class="col-sm-2">
+      <div class="list-group">
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="finish">成品</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="people">人物</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="background">背景</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="object">物件</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="other">其他</a>
+      </div>
+    </div>
+    <div id="switch" class="col-sm-8"style="padding: 10px;">
+
+    </div>
+    <div class="col-sm-2 bg-light">
+      <p class="h6 text-muted">標籤列表</p>
+      <button type="button" class="btn btn-outline-secondary btn-sm"onclick="copytouser()">複製</button>
+      <button type="button" class="btn btn-outline-secondary btn-sm"onclick="clearlist()">清除</button>
+      <div id="list_content"></div>
+      <textarea id="copy_content"></textarea>
+    </div>
+  </div>
+</div>  
+</div>
+<div class="mt-5 p-1 bg-dark text-white text-center">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+      </div>
+      <div class="col-sm-4">
+        <p>Copyright © 2022 Mu. All rights reserved.</p>
+        <p>版權所有© 2022 Mu</p> 
+      </div>
+      <div class="col-sm-4">
+      </div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
