@@ -68,11 +68,11 @@
 <div class="col">
       <div class="card h-100">
         <div class="card-body text-center">
-<p id="image_name_不死者(殭屍)">不死者(殭屍)</p>
-<img src="pic\不死者(殭屍).png" class="img-thumbnail" alt="Cinque Terre">
-          <p class="ellipsis2" id="image_tag_不死者(殭屍)">undead</p>
-	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_不死者(殭屍),image_tag_不死者(殭屍))">加入</button>
-	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_不死者(殭屍))">複製</button>
+<p id="image_name_不死者">不死者</p>
+<img src="pic\不死者.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_不死者">undead</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_不死者,image_tag_不死者)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_不死者)">複製</button>
         </div>
       </div>
 </div>
