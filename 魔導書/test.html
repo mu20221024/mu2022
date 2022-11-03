@@ -28,9 +28,6 @@
           <li class="nav-item">
             <a class="nav-link" href="http://127.0.0.1:5500/test2.html">標籤</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#"></a>
-          </li>
           <li class="nav-item" id="2">
             <a class="nav-link" href="#"id="0">參考目錄</a>
             <ul class="dropdown-menu bg-dark" id="1">
@@ -43,124 +40,63 @@
           </li>
         </ul>
       </div>
+      <div>
+      <ul class="navbar-nav navbar-right">
+        <li class="nav-item">
+          <a class="nav-link" href="#">註冊</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="http://127.0.0.1:5500/test3.html">登入</a>
+        </li>
+      </ul>
+      </div>
     </div>
 </nav>
-<div class="container-fluid p-5 bg-info text-white text-center"id="head"style="--bs-bg-opacity: .7; display:none")>
+<div class="container-fluid bg-info text-white text-center"id="head"style="--bs-bg-opacity: .7; display:none")>
   <h1>魔導書</h1>
-  <p>展示算圖作品跟存放標籤用</p> 
+  <p>展示算圖作品跟存放詞條用</p> 
 </div>
-<div class="container mt-5">
-    <div class="row">
-      <div class="col-sm-4"id="image1"style="display:none">
+<div class="container" style="overflow:auto;">
+  <br>
+  <div class="row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-4">
+<!-- 轮播 -->
     <div id="demo" class="carousel slide" data-bs-ride="carousel">
 
-    <!-- Indicators/dots -->
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
-      <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
-    </div>
-    
-    <!-- The slideshow/carousel -->
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="{{gothic architecture}},ice,flow,kaleidoscope,focus,{{{{{girl face}}}}} s-1123648446.png" alt="Shanghai" class="d-block" style="width:100%">
-      </div>
-      <div class="carousel-item">
-        <img src="{{gothic architecture}},ice,flow,kaleidoscope,focus,{{{{{girl face}}}}} s-2728737306.png" alt="Beijing" class="d-block" style="width:100%">
-      </div>
-      <div class="carousel-item">
-        <img src="{{gothic architecture}},{{{dome}}},kaleidoscope,eyes,pupils,focus,{{{{{{girl eyes}}}}}},face s-2119454554.png" alt="Wuhan" class="d-block" style="width:100%">
-      </div>
-    </div>
+  <!-- 指标/点 -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+  </div>
 
-    <!-- Left and right controls/icons -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </button>
+  <!-- 幻灯片/轮播 -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="pic/像素畫1.png" alt="Los Angeles" class="d-block w-100">
     </div>
+    <div class="carousel-item">
+      <img src="pic/像素畫2.png" alt="Chicago" class="d-block w-100">
     </div>
-    <div class="col-sm-4"id="image2"style="display:none">
-        <div id="demo1" class="carousel slide" data-bs-ride="carousel">
-    
-        <!-- Indicators/dots -->
-        <div class="carousel-indicators">
-          <button type="button" data-bs-target="#demo1" data-bs-slide-to="0" class="active"></button>
-          <button type="button" data-bs-target="#demo1" data-bs-slide-to="1"></button>
-          <button type="button" data-bs-target="#demo1" data-bs-slide-to="2"></button>
-        </div>
-        
-        <!-- The slideshow/carousel -->
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img src="from side,girl sit wheelchair,long hair,white floor-length dress,look out the window,{{{face}}} s-1545577101.png" alt="Shanghai" class="d-block" style="width:100%">
-          </div>
-          <div class="carousel-item">
-            <img src="girl,white dress,long hair,look out the window,{{{profile}}},focus eyes s-3842988267.png" alt="Beijing" class="d-block" style="width:100%">
-          </div>
-          <div class="carousel-item">
-            <img src="colorful,girl,long hair,face s-4287525358.png" alt="Wuhan" class="d-block" style="width:100%">
-          </div>
-        </div>
-        
-        <!-- Left and right controls/icons -->
-        <button class="carousel-control-prev" type="button" data-bs-target="#demo1" data-bs-slide="prev">
-          <span class="carousel-control-prev-icon"></span>
-        </button>
-        <button class="carousel-control-next" type="button" data-bs-target="#demo1" data-bs-slide="next">
-          <span class="carousel-control-next-icon"></span>
-        </button>
-        </div>      
-</div>
-<div class="col-sm-4"id="image3"style="display:none">
-    <div id="demo2" class="carousel slide" data-bs-ride="carousel">
-
-    <!-- Indicators/dots -->
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#demo2" data-bs-slide-to="0" class="active"></button>
-      <button type="button" data-bs-target="#demo2" data-bs-slide-to="1"></button>
-      <button type="button" data-bs-target="#demo2" data-bs-slide-to="2"></button>
-    </div>
-    
-    <!-- The slideshow/carousel -->
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <img src="sky,floating glass shards,reflection,broken glass,flow,{{1girl}},中指,standing,from side,look up,face tattoo,{{{babe}}},purple eyes,rainbow hair,gradient hair,long hair,crown braid,f s-2365093400.png" alt="Shanghai" class="d-block" style="width:100%">
-      </div>
-      <div class="carousel-item">
-        <img src="{{1girl}},中指,standing,face Butterfly tattoo,purple eyes,rainbow hair,gradient hair,long hair,crown braid,french braid,leather jacket,black bra,focus eyes s-4075970847.png" alt="Beijing" class="d-block" style="width:100%">
-      </div>
-      <div class="carousel-item">
-        <img src="{{1girl}},中指,standing,face flower tattoo,{{{babe}}},purple eyes,rainbow hair,gradient hair,long hair,crown braid,french braid,leather jacket,black bra,focus eyes s-3630539465.png" alt="Wuhan" class="d-block" style="width:100%">
-      </div>
-    </div>
-    
-    <!-- Left and right controls/icons -->
-    <button class="carousel-control-prev" type="button" data-bs-target="#demo2" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon"></span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#demo2" data-bs-slide="next">
-      <span class="carousel-control-next-icon"></span>
-    </button>
-    </div>
-</div>
-</div>
-</div>
-<div class="container mt-5">
-  <div class="row">
-    <div id="indeximage"class="col-sm-6" style="position:relative;">
-      <img src="girl,black dragon,face dragon tattoo,sharp,Dragon Claw,scales s-1874975997.png" alt="Shanghai" class="d-block" style="width:100%">
-    </div>
-    <div id="indeximage1"class="col-sm-6" style="position:relative;">
-      <img src="high quality,lights,ice,Fragments,bit,girl,flower,white,focus body,gradient hair s-1835654403.png" alt="Shanghai" class="d-block" style="width:100%">
+    <div class="carousel-item">
+      <img src="pic/像素畫3.png" alt="New York" class="d-block w-100">
     </div>
   </div>
-</div>
 
-<div class="mt-5 p-1 bg-dark text-white text-center">
+  <!-- 左右控件/图标 -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>  
+</div>
+<div class="col-sm-4"></div>
+</div>
+</div>
+<div class="mt-5 p-1 bg-dark text-white text-center fixed-bottom">
   <div class="container">
     <div class="row">
       <div class="col-sm-4">

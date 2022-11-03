@@ -1,0 +1,116 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_遊民">遊民</p>
+<img src="pic\遊民.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_遊民">vagabond</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_遊民,image_tag_遊民)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_遊民)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_程式設計師">程式設計師</p>
+<img src="pic\程式設計師.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_程式設計師">programmer</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_程式設計師,image_tag_程式設計師)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_程式設計師)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_調酒師">調酒師</p>
+<img src="pic\調酒師.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_調酒師">bartender</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_調酒師,image_tag_調酒師)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_調酒師)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_舞者">舞者</p>
+<img src="pic\舞者.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_舞者">dancer</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_舞者,image_tag_舞者)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_舞者)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_樵夫">樵夫</p>
+<img src="pic\樵夫.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_樵夫">woodcutter</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_樵夫,image_tag_樵夫)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_樵夫)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_教授">教授</p>
+<img src="pic\教授.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_教授">professor</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_教授,image_tag_教授)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_教授)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_司機">司機</p>
+<img src="pic\司機.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_司機">driver</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_司機,image_tag_司機)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_司機)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_歌舞伎">歌舞伎</p>
+<img src="pic\歌舞伎.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_歌舞伎">Kabuki</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_歌舞伎,image_tag_歌舞伎)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_歌舞伎)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_女巫">女巫</p>
+<img src="pic\女巫.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_女巫">witch</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_女巫,image_tag_女巫)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_女巫)">複製</button>
+        </div>
+      </div>
+</div>
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_德魯伊">德魯伊</p>
+<img src="pic\德魯伊.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_德魯伊">Druid </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_德魯伊,image_tag_德魯伊)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_德魯伊)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+
+</div>

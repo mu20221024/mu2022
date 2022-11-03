@@ -1,0 +1,186 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <!--服飾 -->
+ <div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_和服">和服</p>
+<img src="pic\和服.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_和服">kimono</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_和服,image_tag_和服)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_和服)">複製</button>
+    </div>
+  </div>
+</div>
+    
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_袴">袴</p>
+<img src="pic\袴.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_袴">hakama</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_袴,image_tag_袴)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_袴)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_武士服">武士服</p>
+<img src="pic\武士服.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_武士服">Samurai uniform</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_武士服,image_tag_武士服)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_武士服)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_儒服">儒服</p>
+<img src="pic\儒服.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_儒服">Confucian clothing</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_儒服,image_tag_儒服)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_儒服)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_宋服">宋服</p>
+<img src="pic\宋服.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_宋服">Song dynasty</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_宋服,image_tag_宋服)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_宋服)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_漢服">漢服</p>
+<img src="pic\漢服.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_漢服">Hanfu</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_漢服,image_tag_漢服)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_漢服)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_道袍">道袍</p>
+<img src="pic\道袍.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_道袍">Taoist robe</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_道袍,image_tag_道袍)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_道袍)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_拘束衣">拘束衣</p>
+<img src="pic\拘束衣.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_拘束衣">straitjacket</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_拘束衣,image_tag_拘束衣)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_拘束衣)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_及地連身裙">及地連身裙</p>
+<img src="pic\及地連身裙.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_及地連身裙">floor-length dress</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_及地連身裙,image_tag_及地連身裙)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_及地連身裙)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_紗麗">紗麗</p>
+<img src="pic\紗麗.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_紗麗">sari</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_紗麗,image_tag_紗麗)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_紗麗)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_寬版T恤">寬版T恤</p>
+<img src="pic\寬版T恤.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_寬版T恤">oversize t-shirt</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_寬版T恤,image_tag_寬版T恤)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_寬版T恤)">複製</button>
+    </div>
+  </div>
+</div>
+  
+<div class="col">
+  <div class="card h-100">
+    <div class="card-body text-center">
+<p id="image_name_新疆傳統服飾">新疆傳統服飾</p>
+<img src="pic\新疆傳統服飾.png" class="img-thumbnail" alt="Cinque Terre">
+      <p class="ellipsis2" id="image_tag_新疆傳統服飾">About Traditional Costume and Dress Adornment of Xinjiang Minorities</p>
+<button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_新疆傳統服飾,image_tag_新疆傳統服飾)">加入</button>
+<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_新疆傳統服飾)">複製</button>
+    </div>
+  </div>
+</div>
+  
+
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_雪紡襯衫">雪紡襯衫</p>
+<img src="pic\雪紡襯衫.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_雪紡襯衫">chiffon blouse </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_雪紡襯衫,image_tag_雪紡襯衫)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_雪紡襯衫)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_編織毛衣">編織毛衣</p>
+<img src="pic\編織毛衣.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_編織毛衣">knitted sweater </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_編織毛衣,image_tag_編織毛衣)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_編織毛衣)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_編織毛帽">編織毛帽</p>
+<img src="pic\編織毛帽.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_編織毛帽">knitted hat </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_編織毛帽,image_tag_編織毛帽)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_編織毛帽)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+    <!--服飾 -->
+
+</div>

@@ -3,5 +3,5 @@ function copytext(obj) {
     $("#copy_content").select();
     document.execCommand('copy');
     $("#copy_content").html("")
-    alert("已複製:"+obj.textContent);
+    toastr["success"](obj.textContent, "已複製");
 }

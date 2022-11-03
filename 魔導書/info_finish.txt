@@ -1,0 +1,126 @@
+    <div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id="image_name_1">狂三</p>
+              <img src="pic\狂三.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_1">{{{masterpiece}}},game cg,clock,1girl,{{{girl standing}}},Nightmare,Elohim ,DATE A LIVE,Tokisaki Kurumi,crazy smile,bangs,black hair, twintails, abnormal pupils, heterochromatic pupils, yellow left eye, red right eye, right eye clock,{black lace}, red and black Lolita headgear,{black lace},{{spaghetti straps red {{Sleeveless}} Lolita Dress}},{black lace},Black Lace long Sleeve,{{{corset}}},{{red multi-layered lace Lolita long skirt}}},black pantyhose,Two-handed pistol,black ankle boots
+
+</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_1,image_tag_1)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_1)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id="image_name_2">海夢</p>
+              <img src="pic\海夢.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_2">{{masterpiece}},{{highres}},{{{girl arm up}}},{babes},sexy,red eyes,long hair,[[[[[unusual pupils]]]]],side-swept bangs,[[[[orange hair]]]]],collar down show wrist collared white shirt,unbuttoned shirt,collar,black tie,gradient hair color,bangs,look down,fluorescent,Soft illumination,focus body,[[small breasts]],</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_2,image_tag_2)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_2)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_3>黑色軍裝</p>
+              <img src="pic\殺人鯨.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_3">{{{black military uniform}}},gold hair,twintails,black cloak with gold trim,purple eyes,hat,{{white thighhighs}},black shorts,bare thighs,A purple gem with wings on the front in the middle of the hat
+                ,Gold buttons on clothes,flat</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_3,image_tag_3)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_3)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_4>盔甲</p>
+              <img src="pic\盔甲女.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_4">{{black}} pantyhose,legs armor,{{Sharp}},{{black}},{underboob line cutout},armor,{plastron},corset,long hair,long armor skirt,eyes</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_4,image_tag_4)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_4)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_5>惡魔</p>
+              <img src="pic\惡魔女.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_5">{{all full spider tattoo}},armor,girl,long hair,a ribbon on the chest,{{{black}}},sharp,horns,{{{{{chiffon}}}}}},{{long Leg armor}},full all,white hair,</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_5,image_tag_5)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_5)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_6>火焰耳</p>
+              <img src="pic\黑色雙馬尾火焰耳女.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_6">fantasy,twintails black hair,{flames on head},{{{ black leather jacket}}},black bra,Foot,backgrond white,white baggy trousers,trousers ripped,{{black boots}}</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_6,image_tag_6)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_6)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_7>黑龍 鎖鏈</p>
+              <img src="pic\黑龍鎖鏈女.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_7">fantasy,twintails black hair,{flames on head},{{{ black leather jacket}}},black bra,Foot,backgrond white,white baggy trousers,trousers ripped,{{black boots}}</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_7,image_tag_7)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_7)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_8>黑色鎧甲 劍士</p>
+              <img src="pic\黑騎劍士.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_8">black Scale armour,black Armor Skirt,black hair,long hair,grab dagger,black stockings</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_8,image_tag_8)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_8)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_9>龍女</p>
+              <img src="pic\龍女1.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_9">[[[[Zentangle]]]],[[wing]],{{{black}}},feather,black armor,totem,White background,sharp,shine,diamond,{{{{{girl}}} dragon}}},long hair,Dragon Claw,long legs,horns,white eye,fantasy,totem</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_9,image_tag_9)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_9)">複製</button>            
+	</div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_10>龍女</p>
+              <img src="pic\龍女2.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_10">{{{{{girl}}} riding big {{dragon}} horse}}},long hair,Dragon Claw,long legs,horns,red eye,blood,fantasy,totem</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_10,image_tag_10)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_10)">複製</button>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body text-center">
+              <p id=image_name_11>禪繞畫 少女 海</p>
+              <img src="pic\禪繞畫少女海.png" class="img-thumbnail" alt="Cinque Terre">
+              <p class="ellipsis2" id="image_tag_11">White background,long {{feather}}} dress,girl,rainbow Gradient long hair,shine,sea ​​blue,sky blue,[[[Zentangle]]]</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_11,image_tag_11)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_11)">複製</button>
+            </div>
+          </div>
+        </div> 
+      </div>

@@ -1,0 +1,104 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_三國無雙">三國無雙</p>
+<img src="pic\三國無雙.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_三國無雙">Dynasty Warriors</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_三國無雙,image_tag_三國無雙)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_三國無雙)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_三國志">三國志</p>
+<img src="pic\三國志.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_三國志">Three Kingdoms</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_三國志,image_tag_三國志)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_三國志)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_聖火降魔錄">聖火降魔錄</p>
+<img src="pic\聖火降魔錄.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_聖火降魔錄">Fire Emblem</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_聖火降魔錄,image_tag_聖火降魔錄)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_聖火降魔錄)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_黑暗靈魂">黑暗靈魂</p>
+<img src="pic\黑暗靈魂.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_黑暗靈魂">Dark Souls</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_黑暗靈魂,image_tag_黑暗靈魂)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_黑暗靈魂)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_洛克人">洛克人</p>
+<img src="pic\洛克人.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_洛克人">Rockman</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_洛克人,image_tag_洛克人)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_洛克人)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_遊戲王">遊戲王</p>
+<img src="pic\遊戲王.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_遊戲王">Yu Gi Ou</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_遊戲王,image_tag_遊戲王)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_遊戲王)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_來自深淵">來自深淵</p>
+<img src="pic\來自深淵.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_來自深淵">Made in abyss</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_來自深淵,image_tag_來自深淵)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_來自深淵)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_寶可夢">寶可夢</p>
+<img src="pic\寶可夢.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_寶可夢">Pokémon</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_寶可夢,image_tag_寶可夢)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_寶可夢)">複製</button>
+        </div>
+      </div>
+</div>
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_犬夜叉">犬夜叉</p>
+<img src="pic\犬夜叉.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_犬夜叉">Inuyasha</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_犬夜叉,image_tag_犬夜叉)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_犬夜叉)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+</div>

@@ -1,0 +1,47 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_鏡爪">鏡爪</p>
+<img src="pic\鏡爪.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_鏡爪">Kindred</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_鏡爪,image_tag_鏡爪)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_鏡爪)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_吉茵珂絲">吉茵珂絲</p>
+<img src="pic\吉茵珂絲.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_吉茵珂絲">jinx</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_吉茵珂絲,image_tag_吉茵珂絲)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_吉茵珂絲)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_蒙娜麗莎">蒙娜麗莎</p>
+<img src="pic\蒙娜麗莎.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_蒙娜麗莎">Mona Lisa</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_蒙娜麗莎,image_tag_蒙娜麗莎)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_蒙娜麗莎)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_法老王">法老王</p>
+<img src="pic\法老王.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_法老王">Pharaoh</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_法老王,image_tag_法老王)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_法老王)">複製</button>
+        </div>
+      </div>
+</div>
+
+</div>

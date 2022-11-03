@@ -7,8 +7,9 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-  
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css" rel="stylesheet" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
   <script type="text/javascript" src="slidedown.js"></script>
   <script type="text/javascript" src="slideup.js"></script>
   <script type="text/javascript" src="fadein.js"></script>
@@ -18,6 +19,7 @@
   <script type="text/javascript" src="clearlist.js"></script>
   <script type="text/javascript" src="clearthis.js"></script>
   <script type="text/javascript" src="copytouser.js"></script>
+  <script type="text/javascript" src="toastr.js"></script>
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -35,9 +37,6 @@
           <li class="nav-item">
             <a class="nav-link" href="http://127.0.0.1:5500/test2.html">標籤</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#"></a>
-          </li>
           <li class="nav-item" id="2">
             <a class="nav-link" href="#"id="0">參考目錄</a>
             <ul class="dropdown-menu bg-dark" id="1">
@@ -50,24 +49,37 @@
           </li>
         </ul>
       </div>
+      <div>
+        <ul class="navbar-nav navbar-right">
+          <li class="nav-item">
+            <a class="nav-link" href="#">註冊</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="http://127.0.0.1:5500/test3.html">登入</a>
+          </li>
+        </ul>
+        </div>
     </div>
 </nav>
-<div class="container-fluid p-5 bg-info text-white text-center"id="head"style="--bs-bg-opacity: .7; display:none")>
-  <h1>魔導書</h1>
-  <p>展示算圖作品跟存放標籤用</p> 
-</div>
 <div class="container"style="padding: 10px;">
   <div class="row">
     <div class="col-sm-2">
       <div class="list-group">
         <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="finish">成品</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="people">人物</a>
-        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="background">背景</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="god">神祇</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="role">人物名</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="cg">遊戲動畫名</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="animal">動物及幻想生物</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="people">人物特徵</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="clothes">服飾</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="clothesstyle">服飾風格</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="job">職業</a>
+        <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="background">場景</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="object">物件</a>
         <a href="#" class="list-group-item list-group-item-action list-group-item-light"id="other">其他</a>
       </div>
     </div>
-    <div id="switch" class="col-sm-8"style="padding: 10px;">
+    <div id="switch" class="col-sm-8"style="overflow:auto; height:530px;">
 
     </div>
     <div class="col-sm-2 bg-light">
@@ -80,7 +92,7 @@
   </div>
 </div>  
 </div>
-<div class="mt-5 p-1 bg-dark text-white text-center">
+<div class="mt-5 p-1 bg-dark text-white text-center fixed-bottom">
   <div class="container">
     <div class="row">
       <div class="col-sm-4">

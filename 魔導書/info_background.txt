@@ -1,0 +1,235 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_海">海</p>
+<img src="pic\海.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_海">sea</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_海,image_tag_海)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_海)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_夕陽">夕陽</p>
+<img src="pic\夕陽.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_夕陽">sunset</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_夕陽,image_tag_夕陽)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_夕陽)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_宇宙">宇宙</p>
+<img src="pic\宇宙.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_宇宙">universe</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_宇宙,image_tag_宇宙)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_宇宙)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_萬花筒">萬花筒</p>
+<img src="pic\萬花筒.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_萬花筒">kaleidoscope</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_萬花筒,image_tag_萬花筒)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_萬花筒)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_亞特蘭提斯">亞特蘭提斯</p>
+<img src="pic\亞特蘭提斯.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_亞特蘭提斯">Atlantis</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_亞特蘭提斯,image_tag_亞特蘭提斯)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_亞特蘭提斯)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_異世界村莊">異世界村莊</p>
+<img src="pic\異世界村莊.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_異世界村莊">Isekai city</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_異世界村莊,image_tag_異世界村莊)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_異世界村莊)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_洞窟">洞窟</p>
+<img src="pic\洞窟.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_洞窟">cave</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_洞窟,image_tag_洞窟)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_洞窟)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_墓園">墓園</p>
+<img src="pic\墓園.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_墓園">cemetery</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_墓園,image_tag_墓園)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_墓園)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_太平間">太平間</p>
+<img src="pic\太平間.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_太平間">mortuary</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_太平間,image_tag_太平間)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_太平間)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_火山">火山</p>
+<img src="pic\火山.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_火山">volcano</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_火山,image_tag_火山)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_火山)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_下水道">下水道</p>
+<img src="pic\下水道.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_下水道">sewer</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_下水道,image_tag_下水道)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_下水道)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_流水線">流水線</p>
+<img src="pic\流水線.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_流水線">assembly line</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_流水線,image_tag_流水線)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_流水線)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_道觀">道觀</p>
+<img src="pic\道觀.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_道觀">Taoist temple</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_道觀,image_tag_道觀)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_道觀)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_時光隧道">時光隧道</p>
+<img src="pic\時光隧道.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_時光隧道">time Tunnel</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_時光隧道,image_tag_時光隧道)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_時光隧道)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_巴別塔">巴別塔</p>
+<img src="pic\巴別塔.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_巴別塔">Tower of Babel</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_巴別塔,image_tag_巴別塔)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_巴別塔)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_花園">花園</p>
+<img src="pic\花園.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_花園">garden </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_花園,image_tag_花園)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_花園)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_暗巷">暗巷</p>
+<img src="pic\暗巷.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_暗巷">dark alley </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_暗巷,image_tag_暗巷)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_暗巷)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_自然">自然</p>
+<img src="pic\自然.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_自然">nature </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_自然,image_tag_自然)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_自然)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_荒野">荒野</p>
+<img src="pic\荒野.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_荒野">wilderness </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_荒野,image_tag_荒野)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_荒野)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_沙漠">沙漠</p>
+<img src="pic\沙漠.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_沙漠">desert </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_沙漠,image_tag_沙漠)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_沙漠)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_叢林">叢林</p>
+<img src="pic\叢林.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_叢林">jungle </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_叢林,image_tag_叢林)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_叢林)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+  </div>

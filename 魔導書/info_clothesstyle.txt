@@ -1,0 +1,116 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_視覺系">視覺系</p>
+<img src="pic\視覺系.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_視覺系">Visual Kei</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_視覺系,image_tag_視覺系)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_視覺系)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_地雷系">地雷系</p>
+<img src="pic\地雷系.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_地雷系">jirai</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_地雷系,image_tag_地雷系)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_地雷系)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_原宿">原宿</p>
+<img src="pic\原宿.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_原宿">harajuku</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_原宿,image_tag_原宿)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_原宿)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_嘻哈">嘻哈</p>
+<img src="pic\嘻哈.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_嘻哈">hiphop</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_嘻哈,image_tag_嘻哈)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_嘻哈)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_印度風">印度風</p>
+<img src="pic\印度風.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_印度風">Indian style</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_印度風,image_tag_印度風)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_印度風)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_洛可可">洛可可</p>
+<img src="pic\洛可可.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_洛可可">rococo</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_洛可可,image_tag_洛可可)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_洛可可)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_蘿莉塔">蘿莉塔</p>
+<img src="pic\蘿莉塔.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_蘿莉塔">lolita</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_蘿莉塔,image_tag_蘿莉塔)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_蘿莉塔)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_層次感">層次感</p>
+<img src="pic\層次感.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_層次感">Layering </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_層次感,image_tag_層次感)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_層次感)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_單寧">單寧</p>
+<img src="pic\單寧.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_單寧">denim </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_單寧,image_tag_單寧)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_單寧)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_波西米亞風">波西米亞風</p>
+<img src="pic\波西米亞風.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_波西米亞風">bohemian </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_波西米亞風,image_tag_波西米亞風)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_波西米亞風)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+</div>

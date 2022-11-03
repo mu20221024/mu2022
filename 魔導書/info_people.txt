@@ -1,0 +1,125 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_長髮">長髮</p>
+<img src="pic\長髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_長髮">long hair</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_長髮,image_tag_長髮)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_長髮)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_短髮">短髮</p>
+<img src="pic\短髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_短髮">short hair</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_短髮,image_tag_短髮)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_短髮)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_馬尾">馬尾</p>
+<img src="pic\馬尾.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_馬尾">ponytail</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_馬尾,image_tag_馬尾)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_馬尾)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_冠狀辮">冠狀辮</p>
+<img src="pic\冠狀辮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_冠狀辮">crown braids</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_冠狀辮,image_tag_冠狀辮)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_冠狀辮)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_彩虹漸層髮">彩虹漸層髮</p>
+<img src="pic\彩虹漸層髮.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_彩虹漸層髮">rainbow gradient hair</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_彩虹漸層髮,image_tag_彩虹漸層髮)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_彩虹漸層髮)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_鑽頭">鑽頭</p>
+<img src="pic\鑽頭.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_鑽頭">drill</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_鑽頭,image_tag_鑽頭)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_鑽頭)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_花紋身">花紋身</p>
+<img src="pic\花紋身.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_花紋身">flower tattoo</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_花紋身,image_tag_花紋身)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_花紋身)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_蜘蛛紋身">蜘蛛紋身</p>
+<img src="pic\蜘蛛紋身.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_蜘蛛紋身">spider tattoo</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_蜘蛛紋身,image_tag_蜘蛛紋身)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_蜘蛛紋身)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_雀斑">雀斑</p>
+<img src="pic\雀斑.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_雀斑">freckle</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_雀斑,image_tag_雀斑)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_雀斑)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_胎記">胎記</p>
+<img src="pic\胎記.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_胎記">birthmark</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_胎記,image_tag_胎記)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_胎記)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_疤痕">疤痕</p>
+<img src="pic\疤痕.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_疤痕">scar</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_疤痕,image_tag_疤痕)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_疤痕)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+  </div>

@@ -6,6 +6,6 @@ function copytouser() {
     }
     $("#copy_content").select();
     document.execCommand('copy');
-    alert("已複製:"+$("#copy_content").text());
+    toastr["success"]($("#copy_content").text(), "已複製");
     $("#copy_content").html("")
     }

@@ -1,0 +1,116 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_海狗">海狗</p>
+<img src="pic\海狗.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_海狗">fur seal</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_海狗,image_tag_海狗)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_海狗)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_羊駝">羊駝</p>
+<img src="pic\羊駝.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_羊駝">Alpaca</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_羊駝,image_tag_羊駝)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_羊駝)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_水獺">水獺</p>
+<img src="pic\水獺.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_水獺">otter</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_水獺,image_tag_水獺)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_水獺)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_大象">大象</p>
+<img src="pic\大象.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_大象">Elephant</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_大象,image_tag_大象)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_大象)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_白鷺">白鷺</p>
+<img src="pic\白鷺.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_白鷺">egret</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_白鷺,image_tag_白鷺)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_白鷺)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_鳳凰">鳳凰</p>
+<img src="pic\鳳凰.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_鳳凰">Phoenix</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_鳳凰,image_tag_鳳凰)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_鳳凰)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_不死者(殭屍)">不死者(殭屍)</p>
+<img src="pic\不死者(殭屍).png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_不死者(殭屍)">undead</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_不死者(殭屍),image_tag_不死者(殭屍))">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_不死者(殭屍))">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_奇異生物">奇異生物</p>
+<img src="pic\奇異生物.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_奇異生物">Tetrapod</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_奇異生物,image_tag_奇異生物)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_奇異生物)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_外星人">外星人</p>
+<img src="pic\外星人.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_外星人">alien</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_外星人,image_tag_外星人)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_外星人)">複製</button>
+        </div>
+      </div>
+</div>
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_獨角獸">獨角獸</p>
+<img src="pic\獨角獸.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_獨角獸">Unicorn </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_獨角獸,image_tag_獨角獸)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_獨角獸)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+
+</div>

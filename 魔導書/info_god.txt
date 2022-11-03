@@ -1,0 +1,75 @@
+<div id="content" class="row row-cols-1 row-cols-md-5 g-4">
+    <div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+          <p id="image_name_帕爾瓦蒂">帕爾瓦蒂</p>
+          <img src="pic\帕爾瓦蒂.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_帕爾瓦蒂">Parvati</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_帕爾瓦蒂,image_tag_帕爾瓦蒂)">加入</button>
+	  <button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_帕爾瓦蒂)">複製</button>
+        </div>
+      </div>
+    </div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_死神">死神</p>
+<img src="pic\死神.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_死神">Reaper</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_死神,image_tag_死神)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_死神)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_阿努比斯">阿努比斯</p>
+<img src="pic\阿努比斯.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_阿努比斯">Anubis</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_阿努比斯,image_tag_阿努比斯)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_阿努比斯)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_哪吒">哪吒</p>
+<img src="pic\哪吒.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_哪吒">Nezha</p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_哪吒,image_tag_哪吒)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_哪吒)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_雅典娜">雅典娜</p>
+<img src="pic\雅典娜.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_雅典娜">Athena </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_雅典娜,image_tag_雅典娜)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_雅典娜)">複製</button>
+        </div>
+      </div>
+</div>
+<div class="col">
+      <div class="card h-100">
+        <div class="card-body text-center">
+<p id="image_name_赫斯緹雅">赫斯緹雅</p>
+<img src="pic\赫斯緹雅.png" class="img-thumbnail" alt="Cinque Terre">
+          <p class="ellipsis2" id="image_tag_赫斯緹雅">Hestia </p>
+	  <button type="button" class="btn btn-primary  btn-sm" onclick="addtolist(image_name_赫斯緹雅,image_tag_赫斯緹雅)">加入</button>
+	<button type="button" class="btn btn-secondary  btn-sm" onclick="copytext(image_tag_赫斯緹雅)">複製</button>
+        </div>
+      </div>
+</div>
+
+
+</div>
+
+
+
