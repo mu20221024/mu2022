@@ -2,6 +2,8 @@ NovelAI算圖展示跟詞條存放
 
 使用html,css,Bootstrap5,javascript,jquery
 
+DEMO:https://mu20221024.github.io/mu2022/%E9%AD%94%E5%B0%8E%E6%9B%B8/test.html
+
 目前已有功能:
 
 1.複製單個詞條\
